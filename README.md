@@ -52,25 +52,34 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 
 
 ## SQL
+### Cursos
+- [Aprenda SQL básico em 10 minutos | Tutorial de SQL](https://www.youtube.com/watch?v=Qef5aOKI81o)
+- [Curso SQL Completo 2023 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=G7bMwefn8RQ&t=42s)
+
+### Tópicos separados
 | Tópico                                       | Link                             | Nível          |
 |---------------------------------------------|----------------------------------|--------------------|
-| Introdução ao SQL                           | [Link]              | Fundamentos        |
-| Consultas SQL Básicas                       | [Link]              | Fundamentos        |
-| Operações de Seleção e Projeção             | [Link]              | Fundamentos        |
-| Cláusula WHERE e Operadores Lógicos          | [Link]              | Fundamentos        |
-| Cláusula ORDER BY                           | [Link]              | Fundamentos        |
-| Cláusula GROUP BY e Funções de Agregação    | [Link]              | Fundamentos        |
-| Junção de Tabelas (INNER JOIN, LEFT JOIN)   | [Link]              | Fundamentos        |
-| Subconsultas e Consultas Aninhadas          | [Link]              | Fundamentos        |
-| Índices e Desempenho                       | [Link]              | Otimização         |
-| Transações e Controle de Concorrência       | [Link]              | Otimização         |
-| Bancos de Dados Relacionais                 | [Link]              | Conceitos Avançados |
-| Stored Procedures e Funções de Usuário      | [Link]              | Conceitos Avançados |
-| Triggers                                   | [Link]              | Conceitos Avançados |
+| Introdução ao SQL | [Link1](https://www.youtube.com/watch?v=Qef5aOKI81o)| Fundamentos |
+| Consultas SQL Básicas| [Link1](https://www.youtube.com/watch?v=Qef5aOKI81o)| Fundamentos |
+| Cláusula WHERE e Operadores Lógicos | [Link1](https://www.devmedia.com.br/sql-clausula-where/37645)| Fundamentos |
+| Cláusula ORDER BY | [Link1](https://www.devmedia.com.br/sql-server-2005-order-by-parte-1/17325)| Fundamentos |
+| Cláusula GROUP BY e Funções de Agregação| [Link]| Fundamentos |
+| Junção de Tabelas (INNER JOIN, LEFT JOIN) | [Link]| Fundamentos |
+| Subconsultas e Consultas Aninhadas | [Link]| Fundamentos |
+| Índices e Desempenho| [Link]| Otimização|
+| Transações e Controle de Concorrência| [Link]| Otimização|
+| Bancos de Dados Relacionais | [Link]| Conceitos Avançados |
+| Stored Procedures e Funções de Usuário| [Link]| Conceitos Avançados |
+| Triggers| [Link]| Conceitos Avançados |
 
 
 ## Python
-| Título                                       | Link                             | Categoria          |
+### Cursos
+- [Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+- [Didática Tech](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD)
+
+### Tópicos separados
+| Título                                     | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
 | Introdução ao Python                        | [Link]              | Fundamentos        |
 | Variáveis e Tipos de Dados                 | [Link]              | Fundamentos        |
@@ -90,7 +99,7 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 | Interface com Bancos de Dados (SQLAlchemy)   | [Link]             | Banco de Dados     |
 | Automatização e Automação de Tarefas         | [Link]             | Produtividade      |
 
-## Data Viz
+## Data Vizualisation
 ### Power BI
 | Título                                       | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
