@@ -101,6 +101,9 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 
 ## Data Vizualisation
 ### Power BI
+### Cursos
+- [Xperiun](https://www.youtube.com/watch?v=EXZGD8C2Iic&ab_channel=Xperiun%7CDataAnalytics)
+### Tópicos separados
 | Título                                       | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
 | Introdução ao Power BI                      | [Link]              | Fundamentos        |
