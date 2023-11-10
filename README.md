@@ -21,8 +21,8 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 |---------------------------------------------|----------------------------------|--------------------|
 | Números e Operações Básicas                 | [Link]              | Fundamentos        |
 | Álgebra Linear                              | [Link]              | Fundamentos        |
-| Estatísticas Descritivas                    | [Link]              | Estatísticas       |
-| Probabilidade e Teoria da Amostragem        | [Link]              | Estatísticas       |
+| Estatísticas Descritivas                    | [Link1](https://www.youtube.com/watch?v=fJZIkAPXyyM&list=PLcWTTAIxTYjUROFgZQK203rkaElZsm7mw&ab_channel=AcademiadaMatem%C3%A1tica)              | Estatísticas       |
+| Probabilidade        | [Link1](https://www.youtube.com/watch?v=8g571hUvgeo&list=PLEfwqyY2ox85yFBHTW0UbXAvuaPULX2vs&ab_channel=EquacionaComPauloPereira)              | Estatísticas       |
 | Inferência Estatística                      | [Link]              | Estatísticas       |
 | Análise Combinatória e Probabilidade        | [Link]              | Estatísticas       |
 | Estatísticas Inferenciais (Testes de Hipóteses) | [Link]           | Estatísticas       |
@@ -55,6 +55,7 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 ### Cursos
 - [Aprenda SQL básico em 10 minutos | Tutorial de SQL](https://www.youtube.com/watch?v=Qef5aOKI81o)
 - [Curso SQL Completo 2023 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=G7bMwefn8RQ&t=42s)
+- [Curso MySQL - Gustavo Guanabara](https://www.youtube.com/watch?v=R2HrwSQ6EPM&list=PL4Sl6eAbMK7RU3OL2bbB_R--iwj3QFqLA&index=3&ab_channel=CursoemV%C3%ADdeo)
 
 ### Tópicos separados
 | Tópico                                       | Link                             | Nível          |
@@ -72,11 +73,10 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 | Stored Procedures e Funções de Usuário| [Link]| Conceitos Avançados |
 | Triggers| [Link]| Conceitos Avançados |
 
-
 ## Python
 ### Cursos
-- [Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-- [Didática Tech](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD)
+- [Curso Python - Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+- [Curso de Python para Iniciantes - Didática Tech](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD)
 
 ### Tópicos separados
 | Título                                     | Link                             | Categoria          |
