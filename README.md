@@ -33,22 +33,26 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 | Teoria dos Conjuntos e Lógica               | [Link]              | Fundamentos        |
 
 ## Excel
+### Cursos
+- [Playlist - Curso Completo de Excel - Beto Camelini](https://www.youtube.com/playlist?list=PLFVUrXYB__lbg2ttKhleZbLfXABwtx2ni)
+
+### Tópicos separados
 | Título                                       | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
-| Introdução ao Microsoft Excel               | [Link]              | Fundamentos        |
-| Criação e Formatação de Planilhas           | [Link]              | Fundamentos        |
-| Fórmulas e Funções Básicas                  | [Link]              | Fundamentos        |
-| Formatação Condicional e Estilos            | [Link]              | Fundamentos        |
-| Tabelas e Gráficos Dinâmicos                | [Link]              | Análise de Dados   |
-| Análise de Dados com Tabela Dinâmica        | [Link]              | Análise de Dados   |
-| Funções Avançadas (PROCV, SOMASE, etc.)     | [Link]              | Análise de Dados   |
-| Gráficos e Visualização de Dados            | [Link]              | Análise de Dados   |
-| Macros e Automação                         | [Link]              | Produtividade      |
-| Análise de Cenários e Solver               | [Link]              | Análise de Dados   |
-| Importação e Exportação de Dados           | [Link]              | Fundamentos        |
-| Proteção e Segurança de Planilhas          | [Link]              | Segurança          |
-| Colaboração e Compartilhamento             | [Link]              | Produtividade      |
-| Funções de Estatística e Matemática         | [Link]              | Estatísticas       |
+| Introdução ao Microsoft Excel               | [Link1](https://youtu.be/9OIWw2h7al0?si=9XxsIl8Wvim8GD-G)| Fundamentos        |
+| Criação e Formatação de Planilhas           | [Link1](https://youtu.be/b56kgjLkroA?si=turrC5KCi4lRhG06)| Fundamentos        |
+| Fórmulas e Funções Básicas                  | [Link1](https://youtu.be/f0DoT3io-zA?si=wwVi8J1-9QQmBtKz)| Fundamentos        |
+| Formatação Condicional e Estilos            | [Link1](https://youtu.be/vvqFWupccX0?si=JYacZwo4bGH6KmSd)| Fundamentos        |
+| Tabelas e Gráficos Dinâmicos                | [Link1](https://youtu.be/GLGAJlKfl2w?si=FJ1dO3Tj9uHdybPD)| Análise de Dados   |
+| Análise de Dados com Tabela Dinâmica        | [Link1](https://www.youtube.com/watch?v=K6pUgyqQfZs)| Análise de Dados   |
+| Funções Avançadas (PROCV, SOMASE, etc.)     | [Link1](https://www.youtube.com/watch?v=zSuBAPSDgok)| Análise de Dados   |
+| Gráficos e Visualização de Dados            | [Link1](https://www.youtube.com/watch?v=iGmqSBMXCc8)| Análise de Dados   |
+| Macros e Automação                         | [Link1](https://www.youtube.com/watch?v=sGzXfk669yA)| Produtividade      |
+| Análise de Cenários e Solver               | [Link1](https://www.youtube.com/watch?v=5N9jnrHWblc)| Análise de Dados   |
+| Importação e Exportação de Dados           | [Link1](https://www.youtube.com/watch?v=mPG041cVT2Q) - [Link2](https://www.youtube.com/watch?v=rgaT8dWwH1g)| Fundamentos        |
+| Proteção e Segurança de Planilhas          | [Link1](https://www.youtube.com/watch?v=2Y5Tu_5ovBk)| Segurança          |
+| Colaboração e Compartilhamento             | [Link1](https://youtu.be/dRPy995ZacE?si=JYAPGVK0qy7EDwub)| Produtividade      |
+| Funções de Estatística e Matemática         | [Link1](https://www.youtube.com/watch?v=5aConYXEKIg)| Estatísticas       |
 
 
 ## SQL
