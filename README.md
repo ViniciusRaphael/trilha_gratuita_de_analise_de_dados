@@ -122,6 +122,9 @@ Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. �
 | Título                                       | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a3f8d35 (Inserindo toggle para minimizar e itens de estatística)
 | Introdução ao Microsoft Excel               | [Link1](https://youtu.be/9OIWw2h7al0?si=9XxsIl8Wvim8GD-G)| Fundamentos        |
 | Criação e Formatação de Planilhas           | [Link1](https://youtu.be/b56kgjLkroA?si=turrC5KCi4lRhG06)| Fundamentos        |
 | Fórmulas e Funções Básicas                  | [Link1](https://youtu.be/f0DoT3io-zA?si=wwVi8J1-9QQmBtKz)| Fundamentos        |
@@ -136,6 +139,7 @@ Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. �
 | Proteção e Segurança de Planilhas          | [Link1](https://www.youtube.com/watch?v=2Y5Tu_5ovBk)| Segurança          |
 | Colaboração e Compartilhamento             | [Link1](https://youtu.be/dRPy995ZacE?si=JYAPGVK0qy7EDwub)| Produtividade      |
 | Funções de Estatística e Matemática         | [Link1](https://www.youtube.com/watch?v=5aConYXEKIg)| Estatísticas       |
+<<<<<<< HEAD
 =======
 | Introdução ao Microsoft Excel               | [Link]              | Fundamentos        |
 | Criação e Formatação de Planilhas           | [Link]              | Fundamentos        |
@@ -151,6 +155,8 @@ Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. �
 | Proteção e Segurança de Planilhas          | [Link]              | Segurança          |
 | Colaboração e Compartilhamento             | [Link]              | Produtividade      |
 | Funções de Estatística e Matemática         | [Link]              | Estatísticas       |
+=======
+>>>>>>> a3f8d35 (Inserindo toggle para minimizar e itens de estatística)
 </details>
 >>>>>>> a16034d (Adicionando detalhes de estatística e criando marcadores toggle para minimizar lista)
 
