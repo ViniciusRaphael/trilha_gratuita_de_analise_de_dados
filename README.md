@@ -15,23 +15,105 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 - [Reddit](https://www.reddit.com/r/datascience/)
 
 # Trilha de Estudo
+A lista é extensa mas você não precisa se cobrar para aprender tudo. Além disso, o conhecimento de mercado também tem um grande peso e isso infelizmente você não encontra em cursos. 
 
-## Matemática
+Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. É como diz o Warren Buffet: 9 mulheres grávidas não geram um bebê em 1 mês.
+
+<details>
+<summary>Matemática</summary>
 | Título                                       | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
-| Números e Operações Básicas                 | [Link]              | Fundamentos        |
-| Álgebra Linear                              | [Link]              | Fundamentos        |
-| Estatísticas Descritivas                    | [Link1](https://www.youtube.com/watch?v=fJZIkAPXyyM&list=PLcWTTAIxTYjUROFgZQK203rkaElZsm7mw&ab_channel=AcademiadaMatem%C3%A1tica)              | Estatísticas       |
-| Probabilidade        | [Link1](https://www.youtube.com/watch?v=8g571hUvgeo&list=PLEfwqyY2ox85yFBHTW0UbXAvuaPULX2vs&ab_channel=EquacionaComPauloPereira)              | Estatísticas       |
-| Inferência Estatística                      | [Link]              | Estatísticas       |
-| Análise Combinatória e Probabilidade        | [Link]              | Estatísticas       |
-| Estatísticas Inferenciais (Testes de Hipóteses) | [Link]           | Estatísticas       |
-| Regressão Linear e Correlação               | [Link]              | Análise de Dados   |
-| Funções e Gráficos                          | [Link]              | Fundamentos        |
-| Cálculo Diferencial e Integral              | [Link]              | Matemática Avançada |
-| Séries Temporais e Previsão                 | [Link]              | Análise de Dados   |
-| Teoria dos Conjuntos e Lógica               | [Link]              | Fundamentos        |
+| Álgebra linear                               | [Link]                           | Fundamentos        |
+| Cálculo diferencial e integral               | [Link]                           | Fundamentos        |
+| Geometria analítica                          | [Link]                           | Fundamentos        |
+| Estatística                                  | [Link]                           | Fundamentos        |
+| Teoria dos números                           | [Link]                           | Fundamentos        |
+| Trigonometria                                | [Link]                           | Fundamentos        |
+| Teoria dos conjuntos e lógica matemática     | [Link]                           | Fundamentos        |
+| Matrizes e determinantes                     | [Link]                           | Intermediário       |
+| Séries e sequências                          | [Link]                           | Intermediário       |
+| Equações diferenciais                        | [Link]                           | Intermediário       |
+| Análise complexa                             | [Link]                           | Intermediário       |
+| Cálculo vetorial                             | [Link]                           | Intermediário       |
+| Probabilidade                                | [Link]                           | Intermediário       |
+| Equações lineares e não lineares             | [Link]                           | Intermediário       |
+| Transformadas                                | [Link]                           | Intermediário       |
+| Teorema dos limites                          | [Link]                           | Intermediário       |
+| Funções de várias variáveis                  | [Link]                           | Avançado            |
+| Álgebra abstrata                             | [Link]                           | Avançado            |
+| Teoria da informação                         | [Link]                           | Avançado            |
+| Geometria diferencial                        | [Link]                           | Avançado            |
+| Topologia                                    | [Link]                           | Avançado            |
+| Análise real                                 | [Link]                           | Avançado            |
+| Geometria algébrica                          | [Link]                           | Avançado            |
+| Análise funcional                            | [Link]                           | Avançado            |
+| Lógica matemática                            | [Link]                           | Avançado            |
+| Matemática discreta                          | [Link]                           | Avançado            |
+| Álgebra comutativa                           | [Link]                           | Avançado            |
+| Teoria dos grafos                            | [Link]                           | Avançado            |
+| Teoria dos jogos                             | [Link]                           | Avançado            |
+| Álgebra linear avançada                      | [Link]                           | Avançado            |
+| Análise numérica                             | [Link]                           | Avançado            |
+| Geometria computacional                      | [Link]                           | Avançado            |
+| Análise harmônica                            | [Link]                           | Avançado            |
+| Matemática aplicada                          | [Link]                           | Avançado            |
+| Teoria dos números avançada                  | [Link]                           | Avançado            |
+| Equações diferenciais parciais               | [Link]                           | Avançado      
+</details>
 
+
+<details>
+<summary>Estatística</summary>
+
+## Estatística
+| Título                                       | Link                             | Categoria          |
+|---------------------------------------------|----------------------------------|--------------------|
+| Tipos de dados e operações básicas           | [Link]                           | Fundamentos        |
+| Estimativa de localização e variabilidade dos dados | [Link]                    | Fundamentos        |
+| Distribuição de dados                        | [Link]                           | Fundamentos        |
+| Dados binários e categóricos                 | [Link]                           | Fundamentos        |
+| Correlação entre variáveis                   | [Link]                           | Fundamentos        |
+| Distribuição de números aleatórios           | [Link]                           | Intermediário       |
+| Lei dos grandes números                      | [Link]                           | Intermediário       |
+| Teorema Central do Limite                    | [Link]                           | Intermediário       |
+| Erro padrão                                  | [Link]                           | Intermediário       |
+| Amostragem de dados                          | [Link]                           | Intermediário       |
+| Viés de amostragem                           | [Link]                           | Intermediário       |
+| Distribuição de amostras                     | [Link]                           | Intermediário       |
+| Bootstrapping                                | [Link]                           | Intermediário       |
+| Intervalo de confiança                       | [Link]                           | Intermediário       |
+| Distribuição normal                          | [Link]                           | Intermediário       |
+| Distribuição t                               | [Link]                           | Intermediário       |
+| Distribuição binomial                        | [Link]                           | Intermediário       |
+| Distribuição qui-quadrado                    | [Link]                           | Intermediário       |
+| Distribuição F                               | [Link]                           | Intermediário       |
+| Distribuição de Poisson e exponencial        | [Link]                           | Intermediário       |
+| Experimentos estatísticos e testes de significância | [Link]                    | Avançado            |
+| Testes A/B                                   | [Link]                           | Avançado            |
+| Testes de hipóteses                          | [Link]                           | Avançado            |
+| Reamostragem                                 | [Link]                           | Avançado            |
+| Significância estatística                    | [Link]                           | Avançado            |
+| Intervalo de confiança                       | [Link]                           | Avançado            |
+| Valor p                                      | [Link]                           | Avançado            |
+| Alpha                                        | [Link]                           | Avançado            |
+| Testes t                                     | [Link]                           | Avançado            |
+| Graus de liberdade                           | [Link]                           | Avançado            |
+| ANOVA                                        | [Link]                           | Avançado            |
+| Valores críticos                             | [Link]                           | Avançado            |
+| Covariância e correlação                     | [Link]                           | Avançado            |
+| Tamanho do efeito                            | [Link]                           | Avançado            |
+| Poder estatístico                            | [Link]                           | Avançado            |
+| Métodos estatísticos não paramétricos        | [Link]                           | Avançado            |
+| Dados de classificação                       | [Link]                           | Avançado            |
+| Testes de normalidade                        | [Link]                           | Avançado            |
+| Normalização de dados                        | [Link]                           | Avançado            |
+| Testes de correlação de classificação        | [Link]                           | Avançado            |
+| Testes de significância de classificação     | [Link]                           | Avançado            |
+| Teste de independência                       | [Link]                           | Avançado            |
+</details>
+
+<details>
+<summary>Excel</summary>
 ## Excel
 ### Cursos
 - [Playlist - Curso Completo de Excel - Beto Camelini](https://www.youtube.com/playlist?list=PLFVUrXYB__lbg2ttKhleZbLfXABwtx2ni)
@@ -39,6 +121,7 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 ### Tópicos separados
 | Título                                       | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
+<<<<<<< HEAD
 | Introdução ao Microsoft Excel               | [Link1](https://youtu.be/9OIWw2h7al0?si=9XxsIl8Wvim8GD-G)| Fundamentos        |
 | Criação e Formatação de Planilhas           | [Link1](https://youtu.be/b56kgjLkroA?si=turrC5KCi4lRhG06)| Fundamentos        |
 | Fórmulas e Funções Básicas                  | [Link1](https://youtu.be/f0DoT3io-zA?si=wwVi8J1-9QQmBtKz)| Fundamentos        |
@@ -53,7 +136,26 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 | Proteção e Segurança de Planilhas          | [Link1](https://www.youtube.com/watch?v=2Y5Tu_5ovBk)| Segurança          |
 | Colaboração e Compartilhamento             | [Link1](https://youtu.be/dRPy995ZacE?si=JYAPGVK0qy7EDwub)| Produtividade      |
 | Funções de Estatística e Matemática         | [Link1](https://www.youtube.com/watch?v=5aConYXEKIg)| Estatísticas       |
+=======
+| Introdução ao Microsoft Excel               | [Link]              | Fundamentos        |
+| Criação e Formatação de Planilhas           | [Link]              | Fundamentos        |
+| Fórmulas e Funções Básicas                  | [Link]              | Fundamentos        |
+| Formatação Condicional e Estilos            | [Link]              | Fundamentos        |
+| Tabelas e Gráficos Dinâmicos                | [Link]              | Análise de Dados   |
+| Análise de Dados com Tabela Dinâmica        | [Link]              | Análise de Dados   |
+| Funções Avançadas (PROCV, SOMASE, etc.)     | [Link]              | Análise de Dados   |
+| Gráficos e Visualização de Dados            | [Link]              | Análise de Dados   |
+| Macros e Automação                         | [Link]              | Produtividade      |
+| Análise de Cenários e Solver               | [Link]              | Análise de Dados   |
+| Importação e Exportação de Dados           | [Link]              | Fundamentos        |
+| Proteção e Segurança de Planilhas          | [Link]              | Segurança          |
+| Colaboração e Compartilhamento             | [Link]              | Produtividade      |
+| Funções de Estatística e Matemática         | [Link]              | Estatísticas       |
+</details>
+>>>>>>> a16034d (Adicionando detalhes de estatística e criando marcadores toggle para minimizar lista)
 
+<details>
+<summary>SQL</summary>
 
 ## SQL
 ### Cursos
@@ -76,6 +178,10 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 | Bancos de Dados Relacionais | [Link]| Conceitos Avançados |
 | Stored Procedures e Funções de Usuário| [Link]| Conceitos Avançados |
 | Triggers| [Link]| Conceitos Avançados |
+</details>
+
+<details>
+<summary>Python</summary>
 
 ## Python
 ### Cursos
@@ -102,6 +208,10 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 | Processamento de Linguagem Natural (NLTK, spaCy) | [Link]           | Aprendizado de Máquina |
 | Interface com Bancos de Dados (SQLAlchemy)   | [Link]             | Banco de Dados     |
 | Automatização e Automação de Tarefas         | [Link]             | Produtividade      |
+</details>
+
+<details>
+<summary>Data Vizualisation</summary>
 
 ## Data Vizualisation
 ### Power BI
@@ -162,7 +272,8 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 | Segurança e Controle de Acesso              | [Link]              | Segurança          |
 | Tableau Prep para Limpeza e Preparação de Dados | [Link]         | Fundamentos        |
 | Desenvolvimento de Extensões (Tableau Extension API) | [Link]         | Desenvolvimento    |
-
+</details>
+<br>
 
 # Créditos
 Esse documento não seria possível sem o conteúdo disponível na web. 
