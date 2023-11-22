@@ -17,10 +17,11 @@ O trabalho de um analista e cientista de dados envolve coletar, limpar e analisa
 # Trilha de Estudo
 A lista é extensa mas você não precisa se cobrar para aprender tudo. Além disso, o conhecimento de mercado também tem um grande peso e isso infelizmente você não encontra em cursos. 
 
-Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. É como diz o Warren Buffet: 9 mulheres grávidas não geram um bebê em 1 mês.
+Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. É como diz o Warren Buffet: 9 mulheres grávidas não geram um bebê em 1 mês!
 
 <details>
 <summary>Matemática</summary>
+
 | Título                                       | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
 | Álgebra linear                               | [Link]                           | Fundamentos        |
@@ -114,6 +115,7 @@ Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. �
 
 <details>
 <summary>Excel</summary>
+
 ## Excel
 ### Cursos
 - [Playlist - Curso Completo de Excel - Beto Camelini](https://www.youtube.com/playlist?list=PLFVUrXYB__lbg2ttKhleZbLfXABwtx2ni)
@@ -121,10 +123,6 @@ Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. �
 ### Tópicos separados
 | Título                                       | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> a3f8d35 (Inserindo toggle para minimizar e itens de estatística)
 | Introdução ao Microsoft Excel               | [Link1](https://youtu.be/9OIWw2h7al0?si=9XxsIl8Wvim8GD-G)| Fundamentos        |
 | Criação e Formatação de Planilhas           | [Link1](https://youtu.be/b56kgjLkroA?si=turrC5KCi4lRhG06)| Fundamentos        |
 | Fórmulas e Funções Básicas                  | [Link1](https://youtu.be/f0DoT3io-zA?si=wwVi8J1-9QQmBtKz)| Fundamentos        |
@@ -139,26 +137,7 @@ Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. �
 | Proteção e Segurança de Planilhas          | [Link1](https://www.youtube.com/watch?v=2Y5Tu_5ovBk)| Segurança          |
 | Colaboração e Compartilhamento             | [Link1](https://youtu.be/dRPy995ZacE?si=JYAPGVK0qy7EDwub)| Produtividade      |
 | Funções de Estatística e Matemática         | [Link1](https://www.youtube.com/watch?v=5aConYXEKIg)| Estatísticas       |
-<<<<<<< HEAD
-=======
-| Introdução ao Microsoft Excel               | [Link]              | Fundamentos        |
-| Criação e Formatação de Planilhas           | [Link]              | Fundamentos        |
-| Fórmulas e Funções Básicas                  | [Link]              | Fundamentos        |
-| Formatação Condicional e Estilos            | [Link]              | Fundamentos        |
-| Tabelas e Gráficos Dinâmicos                | [Link]              | Análise de Dados   |
-| Análise de Dados com Tabela Dinâmica        | [Link]              | Análise de Dados   |
-| Funções Avançadas (PROCV, SOMASE, etc.)     | [Link]              | Análise de Dados   |
-| Gráficos e Visualização de Dados            | [Link]              | Análise de Dados   |
-| Macros e Automação                         | [Link]              | Produtividade      |
-| Análise de Cenários e Solver               | [Link]              | Análise de Dados   |
-| Importação e Exportação de Dados           | [Link]              | Fundamentos        |
-| Proteção e Segurança de Planilhas          | [Link]              | Segurança          |
-| Colaboração e Compartilhamento             | [Link]              | Produtividade      |
-| Funções de Estatística e Matemática         | [Link]              | Estatísticas       |
-=======
->>>>>>> a3f8d35 (Inserindo toggle para minimizar e itens de estatística)
 </details>
->>>>>>> a16034d (Adicionando detalhes de estatística e criando marcadores toggle para minimizar lista)
 
 <details>
 <summary>SQL</summary>
