@@ -24,22 +24,22 @@ Portanto antes de começar, respire fundo, se permita relaxar e vá com calma. �
 
 | Título                                       | Link                             | Categoria          |
 |---------------------------------------------|----------------------------------|--------------------|
-| Álgebra linear                               | [Link]                           | Fundamentos        |
-| Cálculo diferencial e integral               | [Link]                           | Fundamentos        |
-| Geometria analítica                          | [Link]                           | Fundamentos        |
-| Estatística                                  | [Link]                           | Fundamentos        |
-| Teoria dos números                           | [Link]                           | Fundamentos        |
-| Trigonometria                                | [Link]                           | Fundamentos        |
-| Teoria dos conjuntos e lógica matemática     | [Link]                           | Fundamentos        |
-| Matrizes e determinantes                     | [Link]                           | Intermediário       |
-| Séries e sequências                          | [Link]                           | Intermediário       |
-| Equações diferenciais                        | [Link]                           | Intermediário       |
-| Análise complexa                             | [Link]                           | Intermediário       |
-| Cálculo vetorial                             | [Link]                           | Intermediário       |
+| Álgebra linear                               | [Link](https://www.youtube.com/watch?v=fFEHbdyudWc&list=PL7PW7YXa8HO3vata0DUsMPrzgOuXvoDSI)                           | Fundamentos        |
+| Cálculo diferencial e integral               | [Link](https://www.youtube.com/watch?v=WgHUHPlJETs&list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx)                           | Fundamentos        |
+| Geometria analítica                          | [Link](https://www.youtube.com/watch?v=y5iftA9Giwk&list=PL7PW7YXa8HO39l_oMEWzY5YgX9ARioap1)                           | Fundamentos        |
+| Estatística                                  | [Link](https://www.youtube.com/watch?v=a0IxPG3Ihu8&list=PLA0675987914E07BB)                           | Fundamentos        |
+| Teoria dos números                           | [Link](https://www.youtube.com/watch?v=RshTFifD6KM&list=PLYMD22oJpAr31W5rXB4KEhMxe7w3XVZGc)                           | Fundamentos        |
+| Trigonometria                                | [Link](https://www.youtube.com/watch?v=B-W-QlPcwvE&list=PLtjX2mCwXXQv0vXR8ekg3Y7eKk7NU7_Z2)                           | Fundamentos        |
+| Teoria dos conjuntos e lógica matemática     | [Link](https://www.youtube.com/watch?v=2g0o0lzQin8&list=PL83s8LGM84J5LAVfgxdZ08tGwB0ai1-XC)                           | Fundamentos        |
+| Matrizes e determinantes                     | [Link](https://www.youtube.com/watch?v=lZ9onrdpusA&list=PLEfwqyY2ox868TPa8vjL-QPfQlmtqRGa5)                           | Intermediário       |
+| Séries e sequências                          | [Link](https://www.youtube.com/watch?v=EpFqMP-hmXI&list=PLa_2246N48_risPrNTSXFR_IofcJCTybu)                           | Intermediário       |
+| Equações diferenciais                        | [Link](https://www.youtube.com/watch?v=y36S9e006h8&list=PLDE03B0D5AD616BE1)                           | Intermediário       |
+| Cálculo vetorial                             | [Link](https://www.youtube.com/watch?v=8mBTfk7s63s&list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W)                           | Intermediário       |
 | Probabilidade                                | [Link]                           | Intermediário       |
 | Equações lineares e não lineares             | [Link]                           | Intermediário       |
 | Transformadas                                | [Link]                           | Intermediário       |
 | Teorema dos limites                          | [Link]                           | Intermediário       |
+| Análise complexa                             | [Link](https://www.youtube.com/watch?v=i8Uz1A0sC6o&list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn)                           | Avançado       |
 | Funções de várias variáveis                  | [Link]                           | Avançado            |
 | Álgebra abstrata                             | [Link]                           | Avançado            |
 | Teoria da informação                         | [Link]                           | Avançado            |
